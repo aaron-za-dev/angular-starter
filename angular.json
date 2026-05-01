@@ -31,8 +31,7 @@
             ],
             "styles": [
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/styles.css",
-              "flag-icons/css/flag-icons.min.css"
+              "src/styles.scss"
             ],
             "scripts": [],
             "extractLicenses": false,

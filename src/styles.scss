@@ -1,0 +1,7 @@
+@use "tailwindcss";
+@use "flag-icons/sass/flag-icons" with (
+  $flag-icons-use-square: false
+);
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
